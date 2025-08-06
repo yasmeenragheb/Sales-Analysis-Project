@@ -24,16 +24,18 @@ There are many duplicates in the data. While it would normally make sense to rem
 
 ## Data Modeling:
 ### Create a date table using DAX
+This is how the schema looks:
 
 <img width="1100" height="797" alt="Data Model" src="https://github.com/user-attachments/assets/31f5810b-0cf9-4f27-8792-5d7c3cbf659f" />
 
 
-This is how the schema looks:
 
 
-Power BI
-Create some measures like: Sales Forecast, Sales Difference, Sales Growth, Total Sales, Variance(Between Actual and Forecasted Sales)
-The Dishboard:
+
+## Power BI:
+*Create some measures like*: Sales Forecast, Sales Difference, Sales Growth, Total Sales, Variance(Between Actual and Forecasted Sales)
+### The Dashboard:
+<img width="1254" height="693" alt="Dashboard Screen" src="https://github.com/user-attachments/assets/1b05ae9e-e840-4d88-87e3-ba53a735ec65" />
 
 
 
