@@ -15,19 +15,17 @@ The sales department of a company that specializes in tech products required an 
   * Edit the format of the Name Column
 
 
-Sales:
+### Sales:
 There are many duplicates in the data. While it would normally make sense to remove them, I decided not to because:
-The data seems to be generated, as it follows a consistent pattern.
+ * The data seems to be generated, as it follows a consistent pattern.
+ * When I removed the duplicates, the actual sales figures differed significantly from the forecasted sales.
+ * In a real-world scenario, I would go back and consult the data source before making any decisions.
 
 
-When I removed the duplicates, the actual sales figures differed significantly from the forecasted sales.
+## Data Modeling:
+### Create a date table using DAX
 
-
-In a real-world scenario, I would go back and consult the data source before making any decisions.
-
-
-Data Modeling
-Create a date table using DAX
+<img width="1100" height="797" alt="Data Model" src="https://github.com/user-attachments/assets/31f5810b-0cf9-4f27-8792-5d7c3cbf659f" />
 
 
 This is how the schema looks:
