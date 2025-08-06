@@ -41,22 +41,22 @@ This is how the schema looks:
 
 
 
-Insights:
-Total Sales in July for both 2008 and 2009 were the lowest
-Overall, Total Sales are on a decline
-The sales forecast across all countries is relatively similar with difference by 4,14%, with the United States leading in terms of sales
-The top-performing customer is Sabrina Alvarez.
-The most profitable product is Contoso Projector 1080p X980 white
+## Insights:
+ 1. Total Sales in July for both 2008 and 2009 were the lowest
+ 2. Overall, Total Sales are on a decline
+ 3. The sales forecast across all countries is relatively similar, with a difference of *4,14%*, with the United States leading in terms of sales
+ 4. The top-performing customer is Sabrina Alvarez.
+ 5. The most profitable product is *Contoso Projector 1080p X980 white*
 
 
 
 
-Recommendations:
-Offer discounts and promotions for July to boost sales during this slow period
-Focus on marketing efforts in the United States, as it is the top-performing country
-Investigate the declining sales trend and analyze underlying causes, such as market demand or product issues
-Introduce loyalty programs to encourage repeat customers and increase sales volume
-Provide targeted offers for top customers, like Sabrina Alvarez, to maintain their loyalty and increase lifetime value
-Optimize the inventory for products with lower sales to avoid overstocking or understocking
+## Recommendations:
+ 1. Offer discounts and promotions for July to boost sales during this slow period
+ 2. Focus on marketing efforts in the United States, as it is the top-performing country
+ 3. Investigate the declining sales trend and analyze underlying causes, such as market demand or product issues
+ 4. Introduce loyalty programs to encourage repeat customers and increase sales volume
+ 5. Provide targeted offers for top customers, like Sabrina Alvarez, to maintain their loyalty and increase lifetime value
+ 6. Optimize the inventory for products with lower sales to avoid overstocking or understocking
 
 
